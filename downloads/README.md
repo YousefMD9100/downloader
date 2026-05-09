@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
+- [v2rayNG_2.0.18-fdroid_armeabi-v7a](./v2rayNG_2.0.18-fdroid_armeabi-v7a)
+- [v2rayNG_2.0.18_armeabi-v7a](./v2rayNG_2.0.18_armeabi-v7a)
 
 ---
 

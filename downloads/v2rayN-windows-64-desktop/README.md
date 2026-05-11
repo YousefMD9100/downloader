@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `v2rayN-windows-64-desktop.zip` |
-| **Total Size** | **3 parts** - **111.09 MB** |
+| **Total Size** | **3 parts** - **118.14 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 

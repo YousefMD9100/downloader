@@ -8,6 +8,7 @@
 - [v2rayNG_2.0.18-fdroid_armeabi-v7a](./v2rayNG_2.0.18-fdroid_armeabi-v7a)
 - [v2rayNG_2.0.18_armeabi-v7a](./v2rayNG_2.0.18_armeabi-v7a)
 - [v2rayNG_2.0.18_universal](./v2rayNG_2.0.18_universal)
+- [v2rayNG_2.1.7_arm64-v8a](./v2rayNG_2.1.7_arm64-v8a)
 
 ---
 
